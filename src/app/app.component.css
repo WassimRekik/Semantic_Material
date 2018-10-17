@@ -28,12 +28,12 @@ html, body {
   width: 100%;
 }
 .input-email{
-  width: 300px;
+  width: 250px;
   padding: 10px;
   font-size: 1.2em;
 }
 .input-password{
-  width: 300px;
+  width: 250px;
   padding: 10px;
   font-size: 1.2em;
 }
@@ -46,7 +46,7 @@ html, body {
 }
 div.license-agreement
 {
-  margin: 20px 40px;
+  margin: 20px 10px;
   width: 100%;
   height: 450px;
   overflow-y:scroll;
@@ -71,7 +71,7 @@ div.license-agreement
 }
 
 .button-div{
-  width: 90%;
+  width: 100%;
   height: 50px;
 }
 
@@ -102,11 +102,11 @@ div.license-agreement
 .container {
   display: block;
   position: relative;
-  padding-left: 45px;
-  margin-left: 40px;
-  padding-top: 5px;
+  padding-left: 35px;
+  margin-left: 5px;
+  padding-top: 7px;
   cursor: pointer;
-  font-size: 22px;
+  font-size: 16px;
   color: #858585;
   font-family: Arial;
   -webkit-user-select: none;
